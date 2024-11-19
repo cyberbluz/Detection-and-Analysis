@@ -12,5 +12,6 @@
 ## Further investigation revealed (as documented in my Incident Notes) that incidents 66 and 47 were from the same ip address along with several other Brute Force attempts.  I also found that the “Brute Force Success” alerts were in fact False Positives created by a service account. The indication was that the Host VM was suffering from overexposure to inbound traffic and the Firewall (NSG) may be misconfigured.  
 
 ## Using the same procedure, I worked through all the alerts in preparation for the Eradication & Recovery phase of the process. 
+#  - [Eradicate & Recovery](https://github.com/cyberbluz/Eradicate-and-Recovery)
 ----
 ----
