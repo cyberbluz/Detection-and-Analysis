@@ -1,8 +1,8 @@
-# Never pass up an opportunity to breakout a copy of NIST
+# Never pass up an opportunity to breakout a copy of NIST and your Organizatioinal Playbook
 
 ![image](https://github.com/user-attachments/assets/44f84a02-6a02-4b87-b4b2-62cc5c91570c)  
 
-## In this phase of the project, I will use NIST 800-61 Incident Handling Guide and work through several Alerts created by MS Sentinel.
+## In this phase of the project, I will use NIST 800-61 Incident Handling Guide and work through several Alerts created by MS Sentinel, and refer to my Playbook for a Brute Force Success checklist.
 
 ![image](https://github.com/user-attachments/assets/2bce92d2-1902-4b68-998c-e0de062a0ac0)
 ----
