@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/ca01ee74-43f8-453a-82c0-54dc79899f84)
 ![image](https://github.com/user-attachments/assets/4d031cdc-024e-47c0-8a1c-8b457e96ea9e)
 
-## In this phase of the project, I will use NIST 800-61 Incident Handling Guide and work through several Alerts created by MS Sentinel, and refer to my Playbook for a Brute Force Success checklist.
+## In this phase of the project, I will use NIST 800-61 Incident Handling Guide and work through several Alerts created by MS Sentinel, and refer to my Playbook for a Brute Force Success response plan.
 
 ![image](https://github.com/user-attachments/assets/2bce92d2-1902-4b68-998c-e0de062a0ac0)
 ----
